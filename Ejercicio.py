@@ -46,7 +46,7 @@ def contar(lista):
             print(f"NULL")
 
 #base
-lista=['efrein','isrrael','guedez','diaz','luisa','guzman','pedro','juan','benito','lopez']
+lista=['Alejandro','Rodriguez','Ramirez','Adriany','Montaña','ionica','Johan','Rodriguez','Avila','Ana']
 cadena=""
 coma=","
 
